@@ -1,0 +1,3 @@
+# OswegoGitWorkshop
+##Participants
+Jim Spagnola
